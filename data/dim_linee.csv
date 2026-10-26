@@ -1,0 +1,5 @@
+linea_id,reparto,capacita_kg_ora,target_oee
+L1,Affettamento,220,0.78
+L2,Affettamento,240,0.8
+L3,Confezionamento,200,0.79
+L4,Confezionamento,230,0.81

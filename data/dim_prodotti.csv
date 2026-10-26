@@ -1,0 +1,25 @@
+sku,famiglia,formato,kg_per_unita,prezzo_listino,costo_standard_unitario,resa_target,shelf_life_days,lead_stagionatura_days,attivo
+SKU001,Punta d'anca,Intera,2.0,34.0,19.0,0.83,150,52,True
+SKU002,Punta d'anca,Trancio 1kg,1.0,37.0,21.0,0.83,150,52,True
+SKU003,Punta d'anca,Affettata 90g,0.09,2.2,1.15,0.82,75,46,True
+SKU004,Punta d'anca,Affettata 100g,0.1,2.4,1.22,0.82,75,45,True
+SKU005,Fesa,Intera,2.5,32.0,18.5,0.84,150,52,True
+SKU006,Fesa,Trancio 500g,0.5,18.0,10.0,0.83,150,55,True
+SKU007,Fesa,Affettata 90g,0.09,2.0,1.05,0.82,75,36,True
+SKU008,Fesa,Affettata 100g,0.1,2.2,1.12,0.82,75,51,True
+SKU009,Magatello,Intero,1.0,30.0,17.0,0.85,150,48,True
+SKU010,Magatello,Trancio 500g,0.5,16.0,8.8,0.84,150,46,True
+SKU011,Magatello,Affettata 90g,0.09,1.8,0.92,0.82,75,53,True
+SKU012,Magatello,Affettata 100g,0.1,2.0,1.0,0.82,75,49,True
+SKU013,Sottofesa,Intera,1.8,28.0,16.0,0.84,150,35,True
+SKU014,Sottofesa,Trancio 1kg,1.0,31.0,17.5,0.83,150,42,True
+SKU015,Sottofesa,Affettata 90g,0.09,1.75,0.9,0.81,75,37,True
+SKU016,Sottofesa,Affettata 100g,0.1,1.95,0.98,0.81,75,43,True
+SKU017,Punta d'anca,Cubetti 100g,0.1,2.3,1.2,0.81,75,36,True
+SKU018,Fesa,Julienne 100g,0.1,2.15,1.1,0.81,75,40,True
+SKU019,Magatello,Petali 80g,0.08,1.65,0.82,0.8,75,44,True
+SKU020,Sottofesa,Cubetti 100g,0.1,1.85,0.94,0.8,75,45,True
+SKU021,Punta d'anca,Food service 500g,0.5,15.0,8.0,0.82,150,49,True
+SKU022,Fesa,Food service 1kg,1.0,29.0,16.0,0.83,150,40,True
+SKU023,Magatello,Food service 1kg,1.0,27.0,14.5,0.84,150,46,True
+SKU024,Sottofesa,Food service 500g,0.5,13.5,7.2,0.81,150,46,True

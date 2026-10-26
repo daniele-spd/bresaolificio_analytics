@@ -1,0 +1,30 @@
+{
+  "seed": 20261017,
+  "periodo_vendite": [
+    "2024-01-01",
+    "2025-12-31"
+  ],
+  "clienti": 1200,
+  "prodotti": 24,
+  "linee_produttive": 4,
+  "righe_vendita": 44482,
+  "ordini_distinti": 16449,
+  "lotti_produzione": 6336,
+  "movimenti_magazzino": 50854,
+  "allocazioni_vendite_lotti": 44518,
+  "righe_con_evasione_parziale_o_nulla": 1585,
+  "kg_ordinati": 1081041.06,
+  "kg_evasi": 925779.1,
+  "kg_non_evasi": 155261.96,
+  "ricavo_netto_stimato": 21049464.41,
+  "margine_lordo_stimato": 8545428.59,
+  "kg_input_produzione": 3168400.74,
+  "kg_output_conforme": 2587846.31,
+  "kg_scarto": 580554.43,
+  "resa_produttiva_media_ponderata": 0.8168,
+  "controlli_qualita": 5505,
+  "fermi_produttivi": 1560,
+  "righe_forecast": 576,
+  "controlli_ok": 27,
+  "controlli_attenzione": 0
+}

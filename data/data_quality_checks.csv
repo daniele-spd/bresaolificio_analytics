@@ -1,0 +1,28 @@
+controllo,esito,dettaglio
+Clienti univoci,OK,Righe=1200
+SKU univoci,OK,Righe=24
+ID righe vendita univoci,OK,Righe=44482
+ID ordini presenti,OK,Righe=44482
+ID lotti univoci,OK,Righe=6336
+Foreign key cliente valida,OK,Ogni vendita deve avere un cliente valido
+Foreign key SKU vendite valida,OK,Ogni vendita deve avere uno SKU valido
+Foreign key SKU produzione valida,OK,Ogni lotto deve avere uno SKU valido
+Foreign key linea produttiva valida,OK,Ogni lotto deve avere una linea valida
+Foreign key lotti nelle allocazioni,OK,Allocazioni=44518
+Foreign key righe vendita nelle allocazioni,OK,Allocazioni=44518
+Resa compresa tra zero e uno,OK,Resa media=0.8170
+Input produzione positivo,OK,Lotti=6336
+Output non superiore all'input,OK,Output conforme <= input
+Bilancio input output scarto,OK,Input = output conforme + scarto
+Scarto non negativo,OK,Nessuno scarto negativo
+Scadenza successiva alla disponibilita',OK,Validita' cronologica dei lotti
+Date ordine nel periodo,OK,Ordini compresi nel 2024-2025
+Quantita' ordinate non negative,OK,Quantita' valide
+Quantita' evase non superiori agli ordini,OK,Kg evasi <= kg ordinati
+Riconciliazione ordinato evaso,OK,Ordinato = evaso + non evaso
+Ricavi non negativi,OK,Ricavi >= 0
+Prezzi non negativi,OK,Prezzi >= 0
+Percentuale evasione nel range,OK,"Range [0,1]"
+Riconciliazione allocazioni e vendite,OK,Somma allocazioni = kg evasi
+Allocazioni entro la validita' del lotto,OK,Allocazioni non valide=0
+Giacenze cumulative non negative,OK,Minimo=0.000 kg
